@@ -1,0 +1,9 @@
+<resources>
+    <style name="Theme.AnimeAYB" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/primaryGreen</item>
+        <item name="colorPrimaryVariant">@color/primaryBlack</item>
+        <item name="colorOnPrimary">@color/textPrimary</item>
+        <item name="android:windowBackground">@color/background</item>
+        <item name="android:textColor">@color/textPrimary</item>
+    </style>
+</resources>
